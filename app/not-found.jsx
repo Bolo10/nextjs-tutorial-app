@@ -1,0 +1,12 @@
+import Link from 'next/link';
+
+Link;
+export default function NotFound() {
+  return (
+    <section>
+      <h1>404</h1>
+      <p>Not Found</p>
+      <Link href="/">Volver</Link>
+    </section>
+  );
+}
