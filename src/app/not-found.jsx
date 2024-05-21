@@ -1,6 +1,4 @@
 import Link from 'next/link';
-
-Link;
 export default function NotFound() {
   return (
     <section>
