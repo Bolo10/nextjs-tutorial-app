@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project is for self-study purposes to learn and understand the framework. It has 3 branches that explain the fundamentals of Next.js, a practical example to practice. I will soon be deploying an application to production to put the acquired knowledge into practice. I will soon attach the link to the application.
+
+
+Of course! Here is the translated version:
+
+I did not receive a certificate from the tutorial I followed, but here is the supporting evidence.
+
+
 ## Getting Started
 
 First, run the development server:
